@@ -1,4 +1,4 @@
-### Hi there 👋
+### やぁみんな！
 
 <!--
 **CC-ToMoKi/CC-ToMoKi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
